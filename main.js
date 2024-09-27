@@ -5,3 +5,4 @@ console.log(soma(5,3));
 function areaQuadrado(lado1){
     return lado1^2;
 }
+console.log(areaQuadrado(7));
