@@ -1,4 +1,4 @@
-/*função definida*/
+/*Função Definida*/
 
 function soma(num1, num2){
     return num1+num2;
@@ -9,7 +9,7 @@ function areaQuadrado(lado1){
 }
 console.log(areaQuadrado(7));
 
-/*função anonima*/
+/*Função Anônima*/
 
 let media = function (me1, me2, me3) {
     return (me1+me2+me3)/3;
