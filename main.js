@@ -15,5 +15,5 @@ let media = function (me1, me2, me3) {
     return (me1+me2+me3)/3;
 }
 console.log(media(1,3,26));
-let nota = parseInt (prompt ('qual sua nota?'))
-    document.write(nota);
+let media = parseInt (prompt ('qual sua nota?'))
+document.write(nota);
