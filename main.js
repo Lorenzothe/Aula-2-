@@ -1,4 +1,4 @@
 function soma(num1, num2){
-    soma();
+    console.log(soma);
     return num1+num2;
 }
