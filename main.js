@@ -1,4 +1,4 @@
 function soma(num1, num2){
     return num1+num2;
 }
-console.log(soma());
+aconsole.log(soma(5,3));
