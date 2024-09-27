@@ -14,3 +14,4 @@ console.log(areaQuadrado(7));
 let media = function (me1, me2, me3) {
     return (me1+me2+me3)/3;
 }
+console.log(media(1,3,20));
