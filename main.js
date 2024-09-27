@@ -9,7 +9,7 @@ function areaQuadrado(lado1){
 }
 console.log(areaQuadrado(7));
 let areaQuadrado = parseInt (prompt ('qual a área?'))
-document.write(medias);
+document.write(areaQuadrado);
 
 /*Função Anônima*/
 
